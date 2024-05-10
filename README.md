@@ -5,7 +5,7 @@
 2. ngrok的帳號
 3. line的帳號
 4. 課程中遇到問題，在Slido上提問
-5. 下課後問題，在本課程的Github上Issue提問
+5. 下課後問題，在本課程的Github上Issue提問(需註冊Github帳號)
 6. 能執行Powershell的Windows電腦或者Mac電腦
 
 ## 課程簡介
