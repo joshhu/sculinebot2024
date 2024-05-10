@@ -30,8 +30,8 @@
 - 2024/04/23 
 - 2024/05/30
 
-## 線上互動slido連結
- 本課程SLIDO互動平台：(https://app.sli.do/event/ifpCr1fanqgT1y4BrwxKLD)
+## 線上互動Slido連結
+ 本課程Slido互動平台：(https://app.sli.do/event/ifpCr1fanqgT1y4BrwxKLD)
  
 ## 教材內容
 - `Codes`: 課程範例程式
