@@ -1,11 +1,12 @@
 # 東吳大學資科系2024年Linebot實作課程
 
 ## 課前準備
-1. 課程前準備好Google帳號，並且能夠在Colab上執行課程範例程式
-2. ngrok的帳號先行申請好
-3. line的帳號先行申請好
-4. 如果在課程中遇到問題，請在Slido上提問
-5. 如果下課後有任何問題，請在本課程的Github上Issue提問，老師會盡快回答
+1. Google帳號，在Colab上執行程式
+2. ngrok的帳號
+3. line的帳號
+4. 課程中遇到問題，在Slido上提問
+5. 下課後問題，在本課程的Github上Issue提問
+6. 能執行Powershell的Windows電腦或者Mac電腦
 
 ## 課程簡介
 從頭開始開發一個Linebot，並且整合OpenAI API，讓Linebot能夠回答使用者的問題
