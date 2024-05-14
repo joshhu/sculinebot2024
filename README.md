@@ -1,8 +1,11 @@
 # 東吳大學資科系2024年LINE Bot實作課程
 
-## 20240514更新
-1. 有關同學較不熟悉在MacOS的指令下安裝miniconda，在issues中有提供解決方案，請參考[這邊](https://github.com/joshhu/sculinebot2024/issues/1)
-2. 另外有新增在MacOS下用`conda`安裝虛擬環境及套件的方式，請參考[這邊](https://github.com/joshhu/sculinebot2024/issues/2)
+## 更新
+**20240514**
+1. 在MacOS的指令下安裝miniconda，請參考[這邊](https://github.com/joshhu/sculinebot2024/issues/1)
+2. 在MacOS下用`conda`，參考[這邊](https://github.com/joshhu/sculinebot2024/issues/2)
+3. 在Windows 10/11的指令下安裝miniconda，請參考[這邊](https://github.com/joshhu/sculinebot2024/issues/3)
+4. 在Windows 10/11下用`conda`，參考[這邊](https://github.com/joshhu/sculinebot2024/issues/4)
 
 ## 課前準備
 1. Google帳號，在Colab上執行程式
