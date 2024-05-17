@@ -1,6 +1,9 @@
 # 東吳大學資科系2024年LINE Bot實作課程
 
 ## 更新
+**20240517**
+1. 請同學們在下次上課前，先將自己的電腦安裝好Docker。Windows的同學參考[這邊](https://github.com/joshhu/sculinebot2024/issues/6)，Mac的同學參考[這邊](https://github.com/joshhu/sculinebot2024/issues/7)
+
 **20240515**
 1. 如果已經安裝Anaconda的同學，參考[這邊](https://github.com/joshhu/sculinebot2024/issues/5)
 
