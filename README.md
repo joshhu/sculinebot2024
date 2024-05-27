@@ -1,6 +1,9 @@
 # 東吳大學資科系2024年LINE Bot實作課程
 
 ## 更新
+**20240528**
+1. 同學們如果有程式的問題要提問，請在Issue上提問，並且提供程式碼，錯誤訊息，以及問題描述，這樣才能夠幫你解決問題。請參考[這邊](https://github.com/joshhu/sculinebot2024/issues/10)的提問格式，謝謝。
+
 **20240521**
 1. 同學一定務必要安裝好miniconda，並且建立虛擬環境，MacOS同學參考[這邊](https://github.com/joshhu/sculinebot2024/issues/1)，Windows 10/11的同學參考[這邊](https://github.com/joshhu/sculinebot2024/issues/3)
 2. 一定要建立好虛擬環境，並且安裝好套件。MacOS同學參考[這邊](https://github.com/joshhu/sculinebot2024/issues/2)，Windows 10/11的同學參考[這邊](https://github.com/joshhu/sculinebot2024/issues/4)
