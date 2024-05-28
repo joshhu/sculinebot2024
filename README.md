@@ -3,6 +3,11 @@
 ## 更新
 **20240528**
 1. 同學們如果有程式的問題要提問，請在[Issues](https://github.com/joshhu/sculinebot2024/issues)上提問，並且提供程式碼，錯誤訊息，以及問題描述，這樣才能夠幫你解決問題。請參考[這邊](https://github.com/joshhu/sculinebot2024/issues/10)的提問格式，謝謝。
+2. Colab上的密鑰名稱為求符合PEP命名標準，統一改成下列格式，請同學們修改：
+    - LINE的Channel secret：`LINE_CHANNEL_SECRET`
+    - LINE的Channel access token：`LINE_CHANNEL_ACCESS_TOKEN`
+    - Ngrok的authtoken：`NGROK_AUTH_TOKEN`
+    - OpenAI的API key：`OPENAI_API_KEY`
 
 **20240521**
 1. 同學一定務必要安裝好miniconda，並且建立虛擬環境，MacOS同學參考[這邊](https://github.com/joshhu/sculinebot2024/issues/1)，Windows 10/11的同學參考[這邊](https://github.com/joshhu/sculinebot2024/issues/3)
