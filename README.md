@@ -6,7 +6,7 @@
 2. Colab上的密鑰名稱為求符合PEP命名標準，統一改成下列格式，請同學們修改：
     - LINE的Channel secret：`LINE_CHANNEL_SECRET`
     - LINE的Channel access token：`LINE_CHANNEL_ACCESS_TOKEN`
-    - Ngrok的authtoken：`NGROK_AUTH_TOKEN`
+    - Ngrok的authtoken：`NGROK_AUTHTOKEN`
     - OpenAI的API key：`OPENAI_API_KEY`
 
 **20240521**
