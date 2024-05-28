@@ -10,6 +10,7 @@
 3. 如果是本機執行，一定要設定好幾個環境變數，同學參考[這邊](https://github.com/joshhu/sculinebot2024/issues/8)。
 
 **20240517**
+
 ~~1. 請同學們在下次上課前，先將自己的電腦安裝好Docker。Windows的同學參考[這邊](https://github.com/joshhu/sculinebot2024/issues/6)，Mac的同學參考[這邊](https://github.com/joshhu/sculinebot2024/issues/7)~~
 
 **20240515**
